@@ -7,3 +7,7 @@ Nice done u typed here, but I guess it's not correct lol
 ``` python 
 print("add this print on line 5 to more coolenes")
 ```
+# task test
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
